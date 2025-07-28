@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @divyapranjolkar
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ranjolkar@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm Divya P. Ranjolkar
+🎓 AIML Graduate | 💡 Passionate about AI, ML & Web Development
+🔧 Tech Stack: Python, Java, JavaScript, HTML, CSS, Firebase, Power BI
+🧠 Projects in: AI, IoT, Web Apps, Data Analysis
+🌱 Currently learning: Advanced Machine Learning & Full-Stack Development
+🚀 Building smart solutions that solve real-world problems
+📫 Reach me at: ranjolkardivya@gmail.com
 
 <!---
 divyapranjolkar/divyapranjolkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
