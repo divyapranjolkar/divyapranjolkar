@@ -33,8 +33,9 @@ I enjoy learning new technologies, experimenting with AI tools, and developing p
 
 ## Connect With Me
 
-- GitHub: [@divyapranjolkar](https://github.com/divyapranjolkar)
-- LinkedIn: [Add your LinkedIn profile URL](https://www.linkedin.com/)
+- GitHub: (https://github.com/divyapranjolkar)
+- LinkedIn: www.linkedin.com/in/divya-ranjolkar-540882252
+
 
 ---
 
